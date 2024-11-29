@@ -1,0 +1,17 @@
+7f56f3d - supranoor, 4 minutes ago : Update README.md with spreadsheet link
+d7d523a - bgosal, 19 minutes ago : added reference
+5fc6422 - bgosal, 2 days ago : additional graphs for visualization
+28c5acc - supranoor, 2 days ago : Update README.md, still missing spreadsheet and report link
+6b83577 - Bhupinder Gosal (300140608), 3 days ago : fixed show mst button bug
+409b65d - Bhupinder Gosal (300140608), 4 days ago : fixed node colour bug
+ffc59e3 - Bhupinder Gosal (300140608), 4 days ago : Merge branch 'main' of github.com:bgosal/COMP359_Assignment3 Merged remote changes into main
+9002181 - Bhupinder Gosal (300140608), 4 days ago : implemented table and show mst only option
+57624c2 - Noor, 5 days ago : more changes made to 10 input graphs
+5d1c45d - Noor, 5 days ago : added in 10 graphs to .txt file
+c3c91e8 - Bhupinder Gosal (300140608), 6 days ago : implemented dropdown button for graph selection and fixed diameter function
+9a926a8 - Noor, 7 days ago : introduced graph and mst diameter function.
+2568eb8 - Bhupinder Gosal (300140608), 11 days ago : implemented functioning prev and next buttons
+a8d0459 - Bhupinder Gosal (300140608), 11 days ago : implemented GUI for visualizing graphs with non-functioning prev/next buttons
+7885928 - Bhupinder Gosal (300140608), 3 weeks ago : implemented text parssing and prims
+352db20 - Bhupinder Gosal (300140608), 4 weeks ago : test
+31b635a - bgosal, 4 weeks ago : Initial commit
