@@ -8,7 +8,7 @@ Our objective is to develop a program that enables users to choose a graph from 
 
 ## Work Log
 
-**Bhupinder:** Pseudocode, Programming, Graphs/Spreadsheets, Nauty Graph Generation  
+**Bhupinder:** Pseudocode, Programming, Outline, Graphs/Spreadsheets, Nauty Graph Generation  
 
 **Justina:** Outline, Graphs/Spreadsheets, References    
 
@@ -20,10 +20,12 @@ Our objective is to develop a program that enables users to choose a graph from 
 
 ## References
 
-[1] C. A. Shaffer, *Data Structures and Algorithm Analysis in Java*, 3rd ed. Dover Publications, Inc., 2013, pp. 393-398. [Online]. Available: https://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf
+[1]  Bhatia, V. (2024) Graph measurements: Length, distance, diameter, eccentricity, radius, center, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/graph-measurements-length-distance-diameter-eccentricity-radius-center/ (Accessed: 29 November 2024). 
 
-[2] R. Sedgewick, *Algorithms in C++*, 3rd ed. Addison-Wesley, 1998, p. 75. [Online]. Available: https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK2/NODE75.
+[2] C. A. Shaffer, *Data Structures and Algorithm Analysis in Java*, 3rd ed. Dover Publications, Inc., 2013, pp. 393-398. [Online]. Available: https://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf
 
-[3] R. Sedgewick, *Algorithms in C++*, 3rd ed. Addison-Wesley, 1998, p. 74. [Online]. Available: https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK2/NODE74.HTM#SECTION02471000000000000000
+[3] R. Sedgewick, *Algorithms in C++*, 3rd ed. Addison-Wesley, 1998, p. 75. [Online]. Available: https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK2/NODE75.
 
-[4] R. Sedgewick, *Algorithms in C++*, 3rd ed. Addison-Wesley, 1998, p. 73. [Online]. Available: https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms
+[4] R. Sedgewick, *Algorithms in C++*, 3rd ed. Addison-Wesley, 1998, p. 74. [Online]. Available: https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK2/NODE74.HTM#SECTION02471000000000000000
+
+[5] R. Sedgewick, *Algorithms in C++*, 3rd ed. Addison-Wesley, 1998, p. 73. [Online]. Available: https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms
